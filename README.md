@@ -31,3 +31,5 @@ Zion_remote branch is created for Github cooperation.
 Push changes remotely in the master branch. 
 
 ## Master branch tested, but failed to see Zion_remote branch. 
+
+## Now master branch merge all the changes
