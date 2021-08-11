@@ -25,3 +25,7 @@ Merge work is done.
 Zion_remote branch is created for Github cooperation.
 
 ## Zion remote is trying to do something 
+
+## Remote repository get the message
+
+Made some changes here. 
