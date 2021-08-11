@@ -20,6 +20,8 @@ Merge work is done.
 
 ## Zion branch has now been deleted
 
-# Git pull testing 
+# Git pull and push 
 
 Zion_remote branch is created for Github cooperation.
+
+## Waiting for push operation from Zion_remote 
