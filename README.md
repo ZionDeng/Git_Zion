@@ -38,3 +38,4 @@ Made some changes here.
 
 ## Now master branch merge all the changes
 
+Zion_remote deleted
