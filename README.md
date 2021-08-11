@@ -1,8 +1,10 @@
 # This is a Git repository that tests the git commands 
 
-## Git initiates now 
+# Git initiates now 
 
 I am now in the master branch. Commit the changes to the git. 
+
+# Git branch tests
 
 ## Create another branch called Zion 
 
@@ -15,4 +17,7 @@ Changes have been made now.
 ## Master branch is now ready for the merge. 
 
 Merge work is done. 
+
+## Zion branch has now been deleted
+
 
